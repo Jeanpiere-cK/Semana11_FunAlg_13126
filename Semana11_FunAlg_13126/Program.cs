@@ -32,6 +32,7 @@ namespace Semana11_FunAlg_13126
                 Console.WriteLine("2. Mostrar Notas T2");
                 Console.WriteLine("3. Mostrar Notas T3");
                 Console.WriteLine("4. Mostrar Notas EF");
+                Console.WriteLine("5. Mostrar Promedio");
                 Console.WriteLine("0. Salir");
                 Console.WriteLine("Ingrese una opcion...");
                 op = int.Parse(Console.ReadLine());

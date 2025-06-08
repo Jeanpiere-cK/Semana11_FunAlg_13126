@@ -108,7 +108,7 @@ namespace Clase1
                             + "\t" + notaT2[i]
                             + "\t" + notaT3[i]
                             + "\t" + notaEF[i]
-                             "\t" + prom);
+                            +"\t" + prom);
 
                     }
                     break;
